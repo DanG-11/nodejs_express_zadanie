@@ -20,5 +20,5 @@ app.post('/', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Aplikacja pracuje pod adresem http://localhost:${port}`);
+    console.log(`Adres aplikacji: http://localhost:${port}`);
 });
