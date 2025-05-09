@@ -1,13 +1,13 @@
 {
   "name": "nodeexpress",
   "version": "1.0.0",
-  "description": "Wprowadnie do express",
+  "description": "Zadanie Node.js express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "nodemon index.js"
   },
-  "author": "Paweł Zawadzki",
+  "author": "Daniil Gavrilov",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
